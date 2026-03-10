@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class OOPSBannerApp01 {
 	public static void main(String args[]){
 		String[] lines = new String[7];
 	lines[0] = "   ***   " + "  " + "   ***   " + "  " + "****** " + "  " + "   *****";
